@@ -1,2 +1,2 @@
-# ickstarter-analysis
+# kickstarter-analysis
 Module 1
