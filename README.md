@@ -1,2 +1,10 @@
-# kickstarter-analysis
-Module 1
+Overview
+The purpose of this analysis was to provide Louise insight on the relationship between a campaign’s launch date and funding goals. Louise wanted to know how this relationship affected the success rate of these campaigns.
+Analysis and Challenges
+Visualizing data is an effective avenue to take to analyze data when there isn’t a formula or quota to compare the numbers with. The use of line graphs provides us with the ability to compare data against criteria such as periodical dates and success rates. One of the challenges I encountered was in deliverable 2 and I noticed that my graph wasn’t identical to the one presented in the module. I learned the reason for this after realizing that I assumed that my graph would look the same because I sorted the data from the Kickstarter sheet to match what the module was asking. In order to fix this I simply added another criteria in the =COUNTIFS function that filtered the data for only plays. I think that many can go through this error because when you sort & filter data, you may believe that the data will also be omitted from graphs and other analyses. 
+Results
+From the Theater Outcomes Based on Launch Date graph, I’m able to conclude that the months of May and June are the most optimistic months to launch campaigns and that October is the only month that campaigns aren’t cancelled. From the Outcomes Based on Goals graph I can conclude that the success rate decreases as the goal amount increase. For some reason the success rate increases as the goal reaches between $30,000 and $35,000 but then takes a steep drop-in success rate after the goal amount reaches about $45,000. For this reason, I hypothesize that donors may take projects more seriously as they reach closer to the $35,000 mark and consider them as good projects. 
+Some of the limitations on this data set are that there weren’t any plays cancelled. This leaves out information that can tell whether plays at certain amounts cancel at certain thresholds above others. 
+I found that column charts also display this information well because it visualizes side by side, the percentages of success and failure.
+
+
